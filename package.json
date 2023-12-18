@@ -1,0 +1,29 @@
+{
+  "name": "alex l portfolio and services",
+  "version": "1.0.0", 
+  "description": "alex l portfolio and services",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js",
+    "json",
+    "png",
+    "desarollador front-end argentina",
+    "desarollador de sitios webs argentina",
+    "desarrollador web comodoro rivadavia",
+    "desarollador frontend argentina",
+    "programador web comodoro rivadavia"
+
+  ],
+  "author": "Ives van Hoorne",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^11.2.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.2.0"
+  }
+}
